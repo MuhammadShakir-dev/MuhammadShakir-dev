@@ -1,5 +1,6 @@
 
 <h1 align="center">Hi :wave:, I'm Muhmmad Shakir</h1>
+<p>I Muhammad Shakir, I'm a passionate Front-end Developer who develops creative and responsive Front-end of websites also, I'm a Motivational Speaker and I help people with their difficulties. Currently, I'm doing my BS-Software Engineering from SMI University Karachi, Pakistan</p>
 <h3 align="center">A Coding Ninja :ninja: </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chshakir&label=Profile%20views&color=0e75b6&style=flat" alt="chshakir" /> </p>
