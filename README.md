@@ -33,8 +33,8 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/chshakir"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="chshakir" /></a></p><br><br>
 
-<p ><img align="right"  src="https://github-readme-stats.vercel.app/api/top-langs?username=chshakir&show_icons=true&locale=en&layout=compact" alt="chshakir" /></p>
+<p ><img align="left"  src="https://github-readme-stats.vercel.app/api/top-langs?username=chshakir&show_icons=true&locale=en&layout=compact" alt="chshakir" /></p>
 
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=chshakir&show_icons=true&locale=en" alt="chshakir" /></p>
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=chshakir&" alt="chshakir" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=MuhammadShakir-dev&" alt="MuhammadShakir-dev" /></p>
