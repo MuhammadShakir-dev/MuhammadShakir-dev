@@ -20,7 +20,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/@chshakir_05" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@chshakir_05" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/muhammad-shakir-575ba2227" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammad-shakir-575ba2227" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/muhammad-shakir-dev05" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammad-shakir-dev05" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/muhammad-shakir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="muhammad-shakir" height="30" width="40" /></a>
 <a href="https://fb.com/https://www.facebook.com/profile.php?id=100024320106137" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100024320106137" height="30" width="40" /></a>
 <a href="https://instagram.com/muhammadshakir49" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="muhammadshakir49" height="30" width="40" /></a>
