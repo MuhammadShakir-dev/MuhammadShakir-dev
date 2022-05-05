@@ -5,11 +5,11 @@
 
 
 
-- 🔭 I’m currently working on **Polishing my skills**
+- 🔭 I’m currently working on **Creating a Life I love**
 
-- 🌱 I’m currently learning **JAVA-SCRIPT,NODE-JS, REACT, MONGO-DB**
+- 🌱 I’m currently learning **Back-end Web Development**
 
-- 💬 Ask me about **HTML-5, CSS-3, BOOTSTRAP, PYTHON**
+- 💬 Ask me about **Front-End Development & UI/UX Designing**
 
 - 📫 How to reach me **chaudhryshakir67@gmail.com**
 
