@@ -1,5 +1,5 @@
 <img src='https://github.com/MuhammadShakir-dev/MuhammadShakir-dev/blob/main/github%20cover.png'>
-<h1 align="center">Hello Folks :wave:</h1>
+<h2 align="center">Hello Folks :wave:</h2>
   <h1 align="center"> I'm Muhammad Shakir</h1>
 <p>I Muhammad Shakir, I'm a passionate Front-end Developer and a UI/UX Designer who develops creative and responsive Front-end and UI of websites also, I'm a Motivational Speaker and I help people with their difficulties. Currently, I'm doing my BS-Software Engineering from SMI University Karachi, Pakistan</p>
 <h3 align="center">A Coding Ninja :ninja: </h3>
