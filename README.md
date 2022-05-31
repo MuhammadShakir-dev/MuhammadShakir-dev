@@ -1,20 +1,20 @@
 <img src='https://github.com/MuhammadShakir-dev/MuhammadShakir-dev/blob/main/github%20cover.png'>
 <h2 align="center">Hello Folks :wave:</h2>
   <h1 align="center"> I'm Muhammad Shakir</h1>
-<p>I Muhammad Shakir, I'm a passionate Front-end Developer and a UI/UX Designer who develops creative and responsive Front-end and UI of websites also, I'm a Motivational Speaker and I help people with their difficulties. Currently, I'm doing my BS-Software Engineering from SMI University Karachi, Pakistan</p>
+<p>I Muhammad Shakir, I'm a passionate Front-end Developer and a UI/UX Designer who develops & designs responsive Front-end and UI of websites also, I'm a Content creator. I like to help peoples with their difficulties. Currently, I'm doing my BS-Software Engineering from SMI University Karachi, Pakistan.</p>
 <h3 align="center">A Coding Ninja :ninja: </h3>
 
 
 
 - 🔭 I’m currently working on **Creating a Life I love**
 
-- 🌱 I’m currently learning **Back-end Web Development**
+- 🌱 I’m currently learning **Back-end Web Development & TensorFlow**
 
-- 💬 Ask me about **Front-End Development & UI/UX Designing**
+- 💬 Ask me about **Front-End Development, UI/UX Designing, Personal Development & Content Creation**
 
 - 📫 How to reach me **chaudhryshakir67@gmail.com**
 
-- ⚡ Fun fact **I am a good motivational speaker**
+- ⚡ Fun fact **I am a good singer & motivational speaker**
 
 <h3 align="left">Connect with me.</h3>
 <p align="left">
