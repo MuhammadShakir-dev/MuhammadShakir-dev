@@ -38,5 +38,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=muhammadshakir-dev&show_icons=true&locale=en&layout=compact" alt="muhammadshakir-dev" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=muhammadshakir-dev&show_icons=true&locale=en" alt="muhammadshakir-dev" /></p>
-
+<h3>Github Streak.</h3>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadshakir-dev&" alt="muhammadshakir-dev" /></p>
