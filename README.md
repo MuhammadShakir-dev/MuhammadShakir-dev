@@ -1,7 +1,7 @@
 <img src='https://github.com/MuhammadShakir-dev/MuhammadShakir-dev/blob/main/github%20cover.png'>
 <h2 align="center">Hello Folks <img src="https://github.com/MuhammadShakir-dev/MuhammadShakir-dev/blob/main/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966.gif" height="30" width="30"></h2>
-  <h1 align="center"> I'm Muhammad Shakir</h1>
-<p align="center">I Muhammad Shakir, I'm a passionate Front-end Developer and a UI/UX Designer who develops & designs responsive Front-end and UI of websites also, I'm a Content creator. I like to help peoples with their difficulties. Currently, I'm doing my BS-Software Engineering from SMI University Karachi, Pakistan.</p>
+  <h1 align="center"> I Muhammad Shakir</h1>
+<p align="center">I'm a passionate Front-end Developer and a UI/UX Designer who develops & designs responsive Front-end and UI of websites also, I'm a Content creator. I like to help peoples with their difficulties. Currently, I'm doing my BS-Software Engineering from SMI University Karachi, Pakistan.</p>
 <h2 align="center">A Coding Ninja :ninja: </h2>
 
 
