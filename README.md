@@ -3,19 +3,6 @@
   <h1 align="center"> I Muhammad Shakir</h1>
 <p align="center">I'm a passionate Front-end Developer and a UI/UX Designer who develops & designs responsive Front-end and UI of websites also, I'm a Content creator. I like to help peoples with their difficulties. Currently, I'm doing my BS-Software Engineering from SMI University Karachi, Pakistan.</p>
 <h2 align="center">Coding Ninja :ninja: & Creative Designer🚀</h2>
-
-
-
-- 🔭 I’m currently working on **Creating a Life I love**
-
-- 🌱 I’m currently learning **Back-end Web Development & TensorFlow**
-
-- 💬 Ask me about **Front-End Development, UI/UX Designing, Personal Development & Content Creation**
-
-- 📫 How to reach me **chaudhryshakir67@gmail.com**
-
-- ⚡ Fun fact **I am a good singer & motivational speaker**
-
 <h3 align="left">Connect with me.</h3>
 <p align="left">
 <a href="https://twitter.com/mshakir_05" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mshakir_05" height="30" width="40" /></a>
