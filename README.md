@@ -87,3 +87,6 @@
     
 <h2>Github Streak.</h2>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadshakir-dev&" alt="muhammadshakir-dev" /></p>
+
+<h2>Dev Badge</h2>
+<a href="https://app.daily.dev/Ch_Shakir"><img src="https://api.daily.dev/devcards/17fd902b2d1e4be7925069f746372746.png?r=rpt" width="400" alt="Muhammad Shakir's Dev Card"/></a>
