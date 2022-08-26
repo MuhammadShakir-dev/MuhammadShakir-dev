@@ -3,15 +3,16 @@
 <h1 align="center">Hello Folks <img src="https://github.com/MuhammadShakir-dev/MuhammadShakir-dev/blob/main/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966.gif" height="30" width="30"></h1>
   
   
+
+<p align="center">This is Muhammad Shakir</P>
+<p align="center">I'm a passionate Front-end Developer and a UI/UX Designer who loves to Code & design responsive Front-end of websites & applications & Websites UI also, I'm a Content Creator. I like to help people with their difficulties. Currently, I'm doing my BS-Software Engineering at SMI University Karachi, Pakistan.</p>
 <p align="center">I'm a Google Developer Student Club (GDSC) Co-Lead.</P>
 
-<p align="center">I'm a passionate Front-end Developer and a UI/UX Designer who loves to Code & design responsive Front-end of websites & applications & Websites UI also, I'm a Content Creator. I like to help people with their difficulties. Currently, I'm doing my BS-Software Engineering at SMI University Karachi, Pakistan.</p>
+
+<h2 align="center">Coding Ninja :ninja: & Creative Designer🖌️</h2>
 
 
-<h2 align="center">Coding Ninja :ninja: & Creative Designer🚀</h2>
-
-
-<h1>Connect with me</h1>
+<h1>🔗 Connect with me</h1>
 <div align="left">
 <a href="https://github.com/https://github.com/MuhammadShakir-dev?tab=overview&from=2022-07-01&to=2022-07-24" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
