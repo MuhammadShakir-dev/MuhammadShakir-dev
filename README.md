@@ -5,7 +5,7 @@
   
 
 <p align="center">This is Muhammad Shakir</P>
-<p align="center">I'm a passionate Front-end Developer and a UI/UX Designer who loves to Code & design responsive Front-end of websites & applications & Websites UI also, I'm a Content Creator. I like to help people with their difficulties. Currently, I'm doing my BS-Software Engineering at SMI University Karachi, Pakistan.</p>
+<p align="center">I'm a Goal oriented & passionate Front-end Developer and a creative UI/UX Designer. I love to code & design responsive Front-end of websites, applications & website UI. I'm a Content Creator at Hashnode & Medium. I like to help people with their difficulties. I have a lot of interest in the Opensource community currently, I'm completing my Bs in Software Engineering at SMI University Karachi, Pakistan.</p>
 <p align="center">I'm a Google Developer Student Club (GDSC) Co-Lead.</P>
 
 
