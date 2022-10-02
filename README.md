@@ -1,12 +1,20 @@
-<img src='https://github.com/MuhammadShakir-dev/MuhammadShakir-dev/blob/main/New-github-fox-bg.png'>
+</td><td width="100%" height="100px">
 
-<h1 align="center">Hello Folks <img src="https://github.com/MuhammadShakir-dev/MuhammadShakir-dev/blob/main/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966.gif" height="30" width="30"></h1>
-  
-  
+<div align="center">
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+</div>  
 
-<p align="center">This is Muhammad Shakir</P>
+
+</td></tr></table>  
+
+<br/>  
+
+<h1 align="center">I Muhammad Shakir</h1>
 <p align="center">I'm a Goal oriented & passionate Front-end Developer and a creative UI/UX Designer. I love to code & design responsive Front-end of websites, applications & website UI. I'm a Content Creator at Hashnode & Medium. I like to help people with their difficulties. I have a lot of interest in the Opensource community currently, I'm completing my Bs in Software Engineering at SMI University Karachi, Pakistan.</p>
 <p align="center">I'm a Google Developer Student Club (GDSC) Co-Lead.</P>
+
+
+
 
 
 <h2 align="center">Coding Ninja :ninja: & Creative Designer🖌️</h2>
