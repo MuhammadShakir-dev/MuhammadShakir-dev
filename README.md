@@ -87,9 +87,14 @@
 
     
 <h2>Stats.</h2>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=muhammadshakir-dev&show_icons=true&locale=en&layout=compact" alt="muhammadshakir-dev" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=muhammadshakir-dev&show_icons=true&locale=en" alt="muhammadshakir-dev" /></p>
-    
-    
+<table><tr><td valign="top" width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api?username=muhammadshakir-dev&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
+</td><td valign="top" width="50%">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadshakir-dev&hide_border=true&layout=compact" align="left" style="width: 100%" />
+</td></tr></table>  
+<br/>  
+  
+ 
 <h2>Github Streak.</h2>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadshakir-dev&" alt="muhammadshakir-dev" /></p>
