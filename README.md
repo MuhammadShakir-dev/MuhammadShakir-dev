@@ -14,7 +14,7 @@
 
 
 
-<h2 align="center">Coding Ninja :ninja: & Creative Designer🖌️</h2>
+<h2 align="center">Coding Ninja :ninja::  Creative Designer🖌️:  Co-Founder🚀</h2>
 
 
 <h1>🔗 Connect with me</h1>
