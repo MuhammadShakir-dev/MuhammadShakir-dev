@@ -45,11 +45,11 @@
 
 <h1>✍🏻 Publications</h1>
 <a href="https://muhammadshakir.hashnode.dev/" target="_blank">
-  <img  src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" />
+<img  src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" />
 </a>
 &nbsp;
 <a href="https://medium.com/@Muhammad-shakir-67" target="_blank">
-  <img  src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
+<img  src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
 </a>
 
 
@@ -70,13 +70,13 @@
 <a href="https://nodejs.org/" target="_blank"><img style="margin: 15px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" width="50" /></a>  
 <a href="https://about.gitlab.com/" target="_blank"><img style="margin: 15px" src="https://profilinator.rishav.dev/skills-assets/gitlab.svg" alt="GitLab" height="50" width="50" /></a>  
 <a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 15px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="50" width="50" /></a>  
-<a href="https://www.adobe.com/products/photoshop-lightroom.html" target="_blank"><img style="margin: 15px" src="https://profilinator.rishav.dev/skills-assets/lightroom.png" alt="Lightroom" height="50" width="50" /></a>  
 </div>  
 
 <br/>  
 
 <h1 align="left">🚀 Designing Tools.</h1>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/></a><a href="https://www.invisionapp.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/invisionapp/invisionapp-icon.svg" alt="invision" width="40" height="40"/> </a>
+<a href="https://www.adobe.com/products/photoshop-lightroom.html" target="_blank"><img style="margin: 15px" src="https://profilinator.rishav.dev/skills-assets/lightroom.png" alt="Lightroom" height="40" width="40" /></a>  
     
 <h2>Badges.</h2>
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a>
