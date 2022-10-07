@@ -1,11 +1,10 @@
-</td><td width="100%" height="100px">
 
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
+<a href="#" align="center">
+ 
+![GitHub Snake dark](https://github.com/SpotlightForBugs/Spotlightforbugs/blob/output/github-contribution-grid-snake-dark.svg?)
 
 
-</td></tr></table>  
+
 
 <br/>  
 
