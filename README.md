@@ -5,7 +5,7 @@
 
 
 
-<h2 align="center">Coding Ninja :ninja::  Creative Designer🖌️:  Co-Founder🚀</h2>
+<h2 align="center">Coding Ninja :ninja::  Creative Designer🖌️:  Co-Lead <img src="https://github.com/MuhammadShakir-dev/MuhammadShakir-dev/blob/main/search.png" width="20px" height="20px"></h2>
 
 
 <h1>🔗 Connect with me</h1>
