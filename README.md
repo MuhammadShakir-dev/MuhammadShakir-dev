@@ -1,8 +1,5 @@
-[![@muhammadshakir's Holopin board](https://holopin.me/muhammadshakir)](https://holopin.io/@muhammadshakir)
 <h1 align="center">I Muhammad Shakir <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<p align="center"><b>I'm a Goal oriented & passionate Front-end Developer and a creative UI/UX Designer. I love to code & design responsive Front-end of websites, applications & website UI. I'm a Content Creator at Hashnode & Medium. I like to help people with their difficulties. I have a lot of interest in the Opensource community currently, I'm completing my Bs in Software Engineering at SMI University Karachi, Pakistan.<b></p>
-<p align="center">I'm a Google Developer Student Club (GDSC) Co-Lead.</P>
-
+<p align="center">I'm a Front-end developer, UI/UX Designer, Content Creator based in Karachi, Pakistan. Currently I'm leading a Google Developer Student Club and working as a Founder & CEO at my start-up Paysense</p>
 
 
 <h2 align="center">Coding Ninja :ninja::  Creative Designer🖌️:  Co-Lead <img src="https://github.com/MuhammadShakir-dev/MuhammadShakir-dev/blob/main/search.png" width="20px" height="20px"></h2>
