@@ -5,7 +5,7 @@
 <h2 align="center">Coding Ninja :ninja::  Creative Designer🖌️:  Co-Lead <img src="https://github.com/MuhammadShakir-dev/MuhammadShakir-dev/blob/main/search.png" width="20px" height="20px"></h2>
 
 
-<h1><img src="https://github.com/MuhammadShakir-dev/MuhammadShakir-dev/blob/main/handshake.gif" width="80px" height="40px"> Connect with me</h1>
+<h1><img src="https://github.com/MuhammadShakir-dev/MuhammadShakir-dev/blob/main/handshake.gif" width="80px" height="40px">Connect with me</h1>
 <div align="left">
 <a href="https://github.com/https://github.com/MuhammadShakir-dev?tab=overview&from=2022-07-01&to=2022-07-24" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px; margin-right: 50px;" />
@@ -41,7 +41,7 @@
 </a>
 
 
-<h1 align="left"><img src=""> Tech Stack</h1>
+<h1 align="left"><img src="https://github.com/MuhammadShakir-dev/MuhammadShakir-dev/blob/main/coding.gif" width="50px" height="50px"> Tech Stack</h1>
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="50" height="50" alt="JavaScript" /></a>
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="50" height="50" alt="Python" /></a>
