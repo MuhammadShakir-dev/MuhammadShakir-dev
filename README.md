@@ -5,7 +5,7 @@
 <h2 align="center">Coding Ninja :ninja::  Creative Designer🖌️:  Co-Lead <img src="https://github.com/MuhammadShakir-dev/MuhammadShakir-dev/blob/main/search.png" width="20px" height="20px"></h2>
 
 
-<h1>🔗 Connect with me</h1>
+<h1><img src="https://github.com/MuhammadShakir-dev/MuhammadShakir-dev/blob/main/handshake.gif" width="80px" height="40px"> Connect with me</h1>
 <div align="left">
 <a href="https://github.com/https://github.com/MuhammadShakir-dev?tab=overview&from=2022-07-01&to=2022-07-24" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px; margin-right: 50px;" />
