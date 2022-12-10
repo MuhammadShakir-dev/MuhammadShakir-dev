@@ -1,5 +1,7 @@
 <h1 align="center">I Muhammad Shakir <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<p align="center">I'm a Front-end Developer, UI/UX Designer, Content Creator based in Karachi, Pakistan. Currently I'm leading a Google Developer Student Club and working as a Founder & CEO at my start-up Paysense</p>
+<p align="center">
+<b>I'm a Front-end Developer, UI/UX Designer, Content Creator based in Karachi, Pakistan. Currently I'm leading a Google Developer Student Club and working as a Founder & CEO at my start-up Paysense
+</b></p>
 
 
 <h2 align="center">Coding Ninja :ninja::  Creative Designer🖌️:  Co-Lead <img src="https://github.com/MuhammadShakir-dev/MuhammadShakir-dev/blob/main/search.png" width="20px" height="20px"></h2>
