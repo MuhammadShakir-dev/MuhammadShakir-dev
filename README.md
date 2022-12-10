@@ -1,13 +1,14 @@
-<h1 align="center">I Muhammad Shakir <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+# Hi, I Muhammad Shakir <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+
 <p align="center">
 <b>I'm a Front-end Developer, UI/UX Designer, Content Creator based in Karachi, Pakistan. Currently I'm leading a Google Developer Student Club and working as a Founder & CEO at my start-up Paysense
 </b></p>
 
 
-<h2 align="center">Coding Ninja :ninja::  Creative Designer🖌️:  Co-Lead <img src="https://github.com/MuhammadShakir-dev/MuhammadShakir-dev/blob/main/search.png" width="20px" height="20px"></h2>
+## Coding Ninja :ninja::  Creative Designer🖌️:  Co-Lead <img src="https://github.com/MuhammadShakir-dev/MuhammadShakir-dev/blob/main/search.png" width="20px" height="20px">
 
 
-<h1>🤝 Connect with me</h1>
+# 🤝 Connect with me
 <div align="left">
 <a href="https://github.com/https://github.com/MuhammadShakir-dev?tab=overview&from=2022-07-01&to=2022-07-24" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px; margin-right: 50px;" />
@@ -33,7 +34,7 @@
 </div>  
 
 
-<h1>✍🏻 Publications</h1>
+# ✍🏻 Publications
 <a href="https://muhammadshakir.hashnode.dev/" target="_blank">
 <img  src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" />
 </a>
@@ -82,7 +83,7 @@
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 
 
-<h2 align="left">Support.</h2>
+# Support
 <p><a href="https://ko-fi.com/ko-fi.com/muhammadshakir40183"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="ko-fi.com/muhammadshakir40183" /></a></p><br><br>
 
     
