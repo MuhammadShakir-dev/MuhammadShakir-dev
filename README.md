@@ -1,9 +1,9 @@
 <img src="https://github.com/MuhammadShakir-dev/MuhammadShakir-dev/blob/main/github-header.png">
 <h1 align="center">Hi, I'm Muhammad Shakir <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-<h4 align="center">
+<h3 align="center">
 <b>I'm a Front-end Developer, UI/UX Designer, Content Creator based in Karachi, Pakistan. Currently I'm leading a Google Developer Student Club and working as a Founder & CEO at my start-up Paysense
-</b></h4>
+</b></h3>
 
 
 <h1 align="center"> Coding Ninja :ninja::  Creative Designer🖌️:  Co-Lead <img src="https://github.com/MuhammadShakir-dev/MuhammadShakir-dev/blob/main/search.png" width="20px" height="20px"><h1>
