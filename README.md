@@ -1,9 +1,10 @@
 <img src="https://github.com/MuhammadShakir-dev/MuhammadShakir-dev/blob/main/github-header.png">
 <h1 align="center">Hi, I'm Muhammad Shakir <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-<h3 align="center">
-<b>I'm a Front-end Developer, UI/UX Designer, Content Creator based in Karachi, Pakistan. Currently I'm leading a Google Developer Student Club and working as a Founder & CEO at my start-up Paysense
-</b></h3>
+<p align="center">
+<b>
+Hello,I'm Shakir and I'm a front-end developer and UI/UX designer. I specialize in creating beautiful, user-friendly interfaces for web and mobile applications. I have a passion for creating intuitive and engaging experiences that help users achieve their goals, and I'm always looking for ways to improve my skills. I'm excited to be a part of the team and look forward to working together to create amazing user experiences.
+</b></p>
 
 
 <h1 align="center"> Coding Ninja :ninja::  Creative Designer🖌️:  Co-Lead <img src="https://github.com/MuhammadShakir-dev/MuhammadShakir-dev/blob/main/search.png" width="20px" height="20px"><h1>
