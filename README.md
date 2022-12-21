@@ -7,7 +7,7 @@ Hello,I'm Shakir and I'm a front-end developer and UI/UX designer. I specialize 
 </b></p>
 
 
-<h1 align="center"> Coding Ninja :ninja::  Creative Designer🖌️:  Co-Lead <img src="https://github.com/MuhammadShakir-dev/MuhammadShakir-dev/blob/main/search.png" width="20px" height="20px"><h1>
+<h1 align="center"> Coding Ninja :ninja::  Creative Designer🖌️:  Co-Lead <img src="https://github.com/MuhammadShakir-dev/MuhammadShakir-dev/blob/main/Copy%20of%20google_developers_logomark_color.png" width="50px" height="25px"><h1>
 
 
 # 🤝 Connect with me
