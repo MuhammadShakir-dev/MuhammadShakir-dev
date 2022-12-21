@@ -1,9 +1,9 @@
 <img src="https://github.com/MuhammadShakir-dev/MuhammadShakir-dev/blob/main/github-header.png">
-<h1 align="center">Hi, I'm Muhammad Shakir <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">Hello <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
 <b>
-Hello,I'm Shakir and I'm a front-end developer and UI/UX designer. I specialize in creating beautiful, user-friendly interfaces for web and mobile applications. I have a passion for creating intuitive and engaging experiences that help users achieve their goals, and I'm always looking for ways to improve my skills. I'm excited to be a part of the team and look forward to working together to create amazing user experiences.
+I'm Shakir and I'm a front-end developer and UI/UX designer. I specialize in creating beautiful, user-friendly interfaces for web and mobile applications. I have a passion for creating intuitive and engaging experiences that help users achieve their goals, and I'm always looking for ways to improve my skills. I'm excited to be a part of the team and look forward to working together to create amazing user experiences.
 </b></p>
 
 
