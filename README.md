@@ -88,13 +88,6 @@ I'm Shakir and I'm a front-end developer and UI/UX designer. I specialize in cre
 # Support
 <p><a href="https://ko-fi.com/ko-fi.com/muhammadshakir40183"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="ko-fi.com/muhammadshakir40183" /></a></p><br><br>
 
-    
-<h2>Stats.</h2>
-<table><tr><td valign="top" width="100%">
-
-<a href="http://www.github.com/MuhammadShakir-dev"><img src="https://github-readme-stats.vercel.app/api?username=MuhammadShakir-dev&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="MuhammadShakir-dev's GitHub stats" /></a>
-<a href="https://github.com/MuhammadShakir-dev" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadShakir-dev&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
 
 </td></tr></table>  
 <br/>  
