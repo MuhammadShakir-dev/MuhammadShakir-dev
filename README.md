@@ -1,13 +1,13 @@
 <img src="https://github.com/MuhammadShakir-dev/MuhammadShakir-dev/blob/main/LinkedIn%20cover%20-%205.png">
-<img src="https://readme-typing-svg.demolab.com?font=Operator+Mono&size=37&duration=2800&pause=2000&color=FAFAFA&center=true&vCenter=true&width=940&height=50&lines=Hey%2C+I'm+Shakir+Welcome+to+my+Profile!" align="center" alt="Hey, I'm Shakir Welcome to my Profile! animated typed out">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&width=438&lines=Hello+world+this+is+Muhammad+Shakir!;I'm+a+Front-end+Developer.;I'm+a+UI%2FUX+Designer.;I'm+a+Content+Creator.;I'm+a+Co+lead+at+Google+DSC." alt="Typing SVG" /></a>
 
-<h4 align="center">
+<h4 align="left">
 <b>
 I'm Shakir and I'm a front-end developer and UI/UX designer. I specialize in creating beautiful, user-friendly interfaces for web and mobile applications. I have a passion for creating intuitive and engaging experiences that help users achieve their goals, and I'm always looking for ways to improve my skills. I'm excited to be a part of the team and look forward to working together to create amazing user experiences.
 </b></h4>
 
 
-<h1 align="center"> Coding Ninja :ninja::  Creative Designer🖌️:  Co-Lead <img src="https://github.com/MuhammadShakir-dev/MuhammadShakir-dev/blob/main/Copy%20of%20google_developers_logomark_color.png" width="50px" height="25px"><h1>
+<h1 align="left"> Coding Ninja :ninja::  Creative Designer🖌️:  Co-Lead <img src="https://github.com/MuhammadShakir-dev/MuhammadShakir-dev/blob/main/Copy%20of%20google_developers_logomark_color.png" width="50px" height="25px"><h1>
 
 
 # 🤝 Connect with me
