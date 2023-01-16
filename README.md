@@ -1,5 +1,5 @@
 <img src="https://github.com/MuhammadShakir-dev/MuhammadShakir-dev/blob/main/LinkedIn%20cover%20-%205.png">
-<h1 align="center">Hello World<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<img src="https://readme-typing-svg.demolab.com?font=Operator+Mono&size=37&duration=2800&pause=2000&color=FAFAFA&center=true&vCenter=true&width=940&height=50&lines=Hey%2C+I'm+Shakir+Welcome+to+my+Profile!" align="center" alt="Hey, I'm Shakir Welcome to my Profile! animated typed out">
 
 <h4 align="center">
 <b>
