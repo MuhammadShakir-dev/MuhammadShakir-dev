@@ -1,4 +1,4 @@
-<img src="https://github.com/MuhammadShakir-dev/MuhammadShakir-dev/blob/main/github%20(2).png" align="center">
+<img src="https://github.com/MuhammadShakir-dev/MuhammadShakir-dev/blob/main/github-001.png" align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Operator+Roboto&size=30&duration=2800&pause=2000&color=FAFAFA&center=true&vCenter=true&width=940&height=45&lines=Hello+world+this+is+Muhammad+Shakir!;I'm+a+Front-end+Developer.;I'm+a+UI%2FUX+Designer.;I'm+a+Content+Creator.;I'm+a+Co+lead+at+Google+DSC." align="middle" alt="Hey, I'm Hyun Welcome to my Profile! animated typed out">
 
 <h4 align="center">
