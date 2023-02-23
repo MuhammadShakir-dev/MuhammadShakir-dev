@@ -7,7 +7,7 @@ I'm Shakir and I'm a front-end developer and UI/UX designer. I specialize in cre
 </b></h4>
 
 
-<h1 align="center"> Coding <img src="https://github.com/MuhammadShakir-dev/MuhammadShakir-dev/blob/main/ninja.png" width="60px" margin="60px"> Ninja 
+<h1 align="center"> Coding <img src="https://github.com/MuhammadShakir-dev/MuhammadShakir-dev/blob/main/ninja.png" width="70px" margin="70px"> Ninja 
 
 # 🤝 Connect with me
 <div align="left">
@@ -35,7 +35,7 @@ I'm Shakir and I'm a front-end developer and UI/UX designer. I specialize in cre
 </div>  
 
 
-# ✍🏻 Publications
+# <img src="https://github.com/MuhammadShakir-dev/MuhammadShakir-dev/blob/main/content.png" width="60px" height="60px"> Publications
 <a href="https://muhammadshakir.hashnode.dev/" target="_blank">
 <img  src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" />
 </a>
