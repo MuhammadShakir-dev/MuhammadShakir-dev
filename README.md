@@ -9,7 +9,7 @@ I'm Shakir and I'm a front-end developer and UI/UX designer. I specialize in cre
 
 <h1 align="center"> Coding <img src="https://github.com/MuhammadShakir-dev/MuhammadShakir-dev/blob/main/ninja.png" width="70px" margin="70px"> Ninja 
 
-# 🤝 Connect with me
+# <img src="https://github.com/MuhammadShakir-dev/MuhammadShakir-dev/blob/main/hand-shake.png" width="55px" height="55px"> Connect with me
 <div align="left">
 <a href="https://github.com/https://github.com/MuhammadShakir-dev?tab=overview&from=2022-07-01&to=2022-07-24" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px; margin-right: 50px;" />
