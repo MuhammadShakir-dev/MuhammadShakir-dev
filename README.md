@@ -2,9 +2,8 @@
 <img src="https://readme-typing-svg.demolab.com?font=Operator+Roboto&size=30&duration=2800&pause=2000&color=FAFAFA&center=true&vCenter=true&width=940&height=45&lines=Hello+world+this+is+Muhammad+Shakir!;I'm+a+Front-end+Developer.;I'm+a+UI%2FUX+Designer.;I'm+a+Content+Creator.;I'm+a+Co+lead+at+Google+DSC." align="middle" alt="Hey, I'm Hyun Welcome to my Profile! animated typed out">
 
 
-> I'm Shakir and I'm a front-end developer and UI/UX designer. I specialize in creating beautiful, user-friendly interfaces for web and mobile applications. I have a passion for creating intuitive and engaging experiences that help users achieve their goals, and I'm always looking for ways to improve my skills. I'm excited to be a part of the team and look forward to working together to create amazing user experiences.
-
-
+<p align="center"> I'm a front-end developer, I'm part of communities (Google DSC & GDG Kolachi), I'm a content creator and I write articles on various tech tools and languages. I'm also an Open Source contributor and have over 1000 contributions on GitHub.  
+</p>
 
 <h1 align="center"> Coding <img src="https://github.com/MuhammadShakir-dev/MuhammadShakir-dev/blob/main/ninja.png" width="70px" margin="70px"> Ninja 
 
