@@ -1,5 +1,6 @@
 <h1 align="center">Hi , I'm Muhammad Shakir <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
+
 <h4 align="center"> I'm a front-end developer, I'm part of communities (Google DSC & GDG Kolachi), I'm a content creator and I write articles on various tech tools and languages. I'm also an Open Source contributor and have over 1000 contributions on GitHub. </h4>
 
  
@@ -24,10 +25,7 @@
 </a>
 <a href="https://instagram.com/https://www.instagram.com/areyoushakir/" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>
-<a href="https://dribbble.com/https://dribbble.com/MuhammadShakir-dev" target="_blank">
-<img src=https://img.shields.io/badge/dribbble-%23E45285.svg?&style=for-the-badge&logo=dribbble&logoColor=white alt=dribbble style="margin-bottom: 5px;" />
-</a>  
+</a> 
 </div>  
 
 
@@ -83,8 +81,6 @@
 # Support
 <p><a href="https://ko-fi.com/ko-fi.com/muhammadshakir40183"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="ko-fi.com/muhammadshakir40183" /></a></p><br><br>
 
-
-</td></tr></table>  
 <br/>  
   
  
