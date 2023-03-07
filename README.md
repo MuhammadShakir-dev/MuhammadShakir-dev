@@ -1,9 +1,8 @@
-<img src="https://readme-typing-svg.demolab.com?font=Operator+Roboto&size=30&duration=2800&pause=2000&color=FAFAFA&center=true&vCenter=true&width=940&height=40&lines=Hello+world+this+is+Muhammad+Shakir!;I'm+a+Front-end+Developer.;I'm+a+UI%2FUX+Designer.;I'm+a+Content+Creator.;I'm+a+Co+lead+at+Google+DSC." align="middle" alt="Hey, I'm Hyun Welcome to my Profile! animated typed out">
+<h1 align="center">Hi , I'm Muhammad Shakir <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
+<h4 align="center"> I'm a front-end developer, I'm part of communities (Google DSC & GDG Kolachi), I'm a content creator and I write articles on various tech tools and languages. I'm also an Open Source contributor and have over 1000 contributions on GitHub. </h4>
 
-<p align="center"> I'm a front-end developer, I'm part of communities (Google DSC & GDG Kolachi), I'm a content creator and I write articles on various tech tools and languages. I'm also an Open Source contributor and have over 1000 contributions on GitHub.  
-</p>
-
+ 
 <h1 align="center"> Coding <img src="https://github.com/MuhammadShakir-dev/MuhammadShakir-dev/blob/main/ninja.png" width="70px" margin="70px"> Ninja 
 
 # <img src="https://github.com/MuhammadShakir-dev/MuhammadShakir-dev/blob/main/hand-shake.png" width="55px" height="55px"> Connect with me
