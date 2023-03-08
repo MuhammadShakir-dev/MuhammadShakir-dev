@@ -2,7 +2,7 @@
 <h1 align="left">Hi, there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 
-<h4 align="left"> I'm a front-end developer, I'm part of communities (Google DSC & GDG Kolachi), I'm a content creator and I write articles on various tech tools and languages. I'm also an Open Source contributor and have over 1000 contributions on GitHub. </h4>
+<h3 align="left"> I'm a front-end developer, I'm part of communities (Google DSC & GDG Kolachi), I'm a content creator and I write articles on various tech tools and languages. I'm also an Open Source contributor and have over 1000 contributions on GitHub. </h3>
 
  
 <h1 align="left"> Coding <img src="https://github.com/MuhammadShakir-dev/MuhammadShakir-dev/blob/main/ninja.png" width="70px" margin="70px"> Ninja 
