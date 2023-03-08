@@ -1,4 +1,4 @@
-<img src="https://github.com/MuhammadShakir-dev/MuhammadShakir-dev/blob/main/tentocats-removebg-preview.png" align="right">
+<img src="https://github.com/MuhammadShakir-dev/MuhammadShakir-dev/blob/main/vinyltocat-removebg-preview.png" align="right">
 <img src="https://github.com/MuhammadShakir-dev/MuhammadShakir-dev/blob/main/OctoAsians_dex_Full__1_-removebg-preview.png" align="left">
 
 
