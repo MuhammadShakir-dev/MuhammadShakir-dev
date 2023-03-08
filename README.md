@@ -1,11 +1,15 @@
+<img src="https://github.com/MuhammadShakir-dev/MuhammadShakir-dev/blob/main/tentocats-removebg-preview.png" align="right">
 <img src="https://github.com/MuhammadShakir-dev/MuhammadShakir-dev/blob/main/OctoAsians_dex_Full__1_-removebg-preview.png" align="left">
-<h1 align="center">Hi , I'm Muhammad Shakir <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 
-<h4 align="center"> I'm a front-end developer, I'm part of communities (Google DSC & GDG Kolachi), I'm a content creator and I write articles on various tech tools and languages. I'm also an Open Source contributor and have over 1000 contributions on GitHub. </h4>
+
+<h1 align="left">Hi , I'm Muhammad Shakir <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+
+
+<h4 align="left"> I'm a front-end developer, I'm part of communities (Google DSC & GDG Kolachi), I'm a content creator and I write articles on various tech tools and languages. I'm also an Open Source contributor and have over 1000 contributions on GitHub. </h4>
 
  
-<h1 align="center"> Coding <img src="https://github.com/MuhammadShakir-dev/MuhammadShakir-dev/blob/main/ninja.png" width="70px" margin="70px"> Ninja 
+<h1 align="left"> Coding <img src="https://github.com/MuhammadShakir-dev/MuhammadShakir-dev/blob/main/ninja.png" width="70px" margin="70px"> Ninja 
 
 # <img src="https://github.com/MuhammadShakir-dev/MuhammadShakir-dev/blob/main/hand-shake.png" width="55px" height="55px"> Let's Connect
 <div align="left">
