@@ -72,7 +72,7 @@
 ![Atom](https://img.shields.io/badge/Atom-%2366595C.svg?style=for-the-badge&logo=atom&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-## 👉 OS
+## 👉 Operating system.
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
@@ -81,13 +81,10 @@
 
 # Support
 <p><a href="https://ko-fi.com/ko-fi.com/muhammadshakir40183"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="ko-fi.com/muhammadshakir40183" /></a></p><br><br>
-
 <br/>  
-  
- 
-## Github Streak.
-<a href="http://www.github.com/MuhammadShakir-dev"><img src="https://github-readme-streak-stats.herokuapp.com/?user=MuhammadShakir-dev&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<h2>Github Graph</h2>
+
+
+# Github Graph
 
 [![MuhammadShakir-dev github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=MuhammadShakir-dev&theme=react-dark)](https://github.com//github-readme-activity-graph)
