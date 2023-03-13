@@ -83,8 +83,9 @@
 <p><a href="https://ko-fi.com/ko-fi.com/muhammadshakir40183"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="ko-fi.com/muhammadshakir40183" /></a></p><br><br>
 <br/>  
 
+# GitHub Streak
+[![GitHub Streak](https://streak-stats.demolab.com?user=MuhammadShakir-dev&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
-
-# Github Graph
+# GitHub Graph
 
 [![MuhammadShakir-dev github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=MuhammadShakir-dev&theme=react-dark)](https://github.com//github-readme-activity-graph)
