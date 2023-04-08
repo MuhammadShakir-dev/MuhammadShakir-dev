@@ -1,4 +1,4 @@
-<img src="https://github.com/MuhammadShakir-dev/MuhammadShakir-dev/blob/main/asian%20(1).png">
+<img src="https://github.com/MuhammadShakir-dev/MuhammadShakir-dev/blob/main/new%20github%20header.png">
 <h1 align="left">Hi, there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 
