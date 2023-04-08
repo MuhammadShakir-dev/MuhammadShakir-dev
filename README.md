@@ -1,13 +1,13 @@
 <img src="https://github.com/MuhammadShakir-dev/MuhammadShakir-dev/blob/main/new%20github%20header.png">
-<h1 align="left">Hi, there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="left">Hi, I'm Muhammad Shakir <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> </h1>
 
 
-<h3 align="left"> 
+<p align="left"> 
 I'm a part of Google communities like Google DSC & Google Developer Groups. I'm the founder of Paysense, a fintech startup that helps people by making their everyday transactions easier. I'm a front-end developer, although I have a great knowledge of UI/UX design. I love contributing to open source, building projects, community development, creating content that helps people.
-</h3>
+</p>
 
  
-<h1 align="left"> Coding <img src="https://github.com/MuhammadShakir-dev/MuhammadShakir-dev/blob/main/ninja.png" width="70px" margin="70px"> Ninja 
+<h1 align="left"> Eat(); Sleep(); Code(); Repeat(); <h1>
 
 # <img src="https://github.com/MuhammadShakir-dev/MuhammadShakir-dev/blob/main/hand-shake.png" width="55px" height="55px"> Let's Connect
 <div align="left">
