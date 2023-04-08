@@ -7,7 +7,7 @@ I'm a part of Google communities like Google DSC & Google Developer Groups. I'm 
 </p>
 
  
-<h1 align="left"> Eat(); Sleep(); Code(); Repeat(); <h1>
+<h1 align="left">Eat(); Sleep(); Code(); Repeat(); <h1>
 
 # <img src="https://github.com/MuhammadShakir-dev/MuhammadShakir-dev/blob/main/hand-shake.png" width="55px" height="55px"> Let's Connect
 <div align="left">
