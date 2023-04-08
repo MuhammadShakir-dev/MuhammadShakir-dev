@@ -7,9 +7,9 @@ I'm a part of Google communities like Google DSC & Google Developer Groups. I'm 
 </p>
 
  
-<h1 align="left">Eat(); Sleep(); Code(); Repeat(); <h1>
+<h1 align="left">Eat(); Sleep(); Code(); Repeat();<h1>
 
-# <img src="https://github.com/MuhammadShakir-dev/MuhammadShakir-dev/blob/main/hand-shake.png" width="55px" height="55px"> Let's Connect
+# 🤝🏻 Let's Connect
 <div align="left">
 <a href="https://github.com/https://github.com/MuhammadShakir-dev?tab=overview&from=2022-07-01&to=2022-07-24" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px; margin-right: 50px;" />
@@ -32,7 +32,7 @@ I'm a part of Google communities like Google DSC & Google Developer Groups. I'm 
 </div>  
 
 
-# <img src="https://github.com/MuhammadShakir-dev/MuhammadShakir-dev/blob/main/content.png" width="60px" height="60px"> Publications
+# ✍🏻 Publications
 <a href="https://muhammadshakir.hashnode.dev/" target="_blank">
 <img  src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" />
 </a>
@@ -42,7 +42,7 @@ I'm a part of Google communities like Google DSC & Google Developer Groups. I'm 
 </a>
 
 
-# <img src="https://github.com/MuhammadShakir-dev/MuhammadShakir-dev/blob/main/tech-stack.png" width="70px" height="70px" margin="0px"> Skills
+# 🛠️ Skills
 ## Programming Language
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
