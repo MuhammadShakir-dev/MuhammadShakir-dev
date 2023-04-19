@@ -2,7 +2,7 @@
 
 
 <p align="center"> 
-I'm a part of Google communities like Google DSC & Google Developer Groups. I'm the founder of Paysense, a fintech startup that helps people by making their everyday transactions easier. I'm a front-end developer, although I have a great knowledge of UI/UX design. I love contributing to open source, building projects, community development, creating content that helps people.
+As an avid participant in the tech community, I am proud to be a part of Google DSC and Google Developer Groups. With an entrepreneurial spirit, I founded Paysense, a fintech startup that simplifies everyday transactions for individuals. My passion for technology extends beyond entrepreneurship, as I have extensive knowledge in front-end development and an eye for designing intuitive and engaging user interfaces.
 </p>
 
  
