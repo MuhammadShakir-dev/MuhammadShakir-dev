@@ -1,13 +1,12 @@
-<img src="https://github.com/MuhammadShakir-dev/MuhammadShakir-dev/blob/main/new-github-banner.png">
 
-
-<p align="center"> 
+<h1 align="center">Eat(); Sleep(); Code(); Repeat();<h1>
+ 
+ 
+<h3 align="center"> 
 As an avid participant in the tech community, I am proud to be a part of Google DSC and Google Developer Groups. With an entrepreneurial spirit, I founded Paysense, a fintech startup that simplifies everyday transactions for individuals. My passion for technology extends beyond entrepreneurship, as I have extensive knowledge in front-end development and an eye for designing intuitive and engaging user interfaces.
-</p>
+</h3>
 
  
-<h1 align="center">Eat(); Sleep(); Code(); Repeat();<h1>
-
 # 🤝🏻 Let's Connect
 <div align="left">
 <a href="https://github.com/https://github.com/MuhammadShakir-dev?tab=overview&from=2022-07-01&to=2022-07-24" target="_blank">
