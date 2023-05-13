@@ -2,9 +2,9 @@
 
 <h1 align="center">Eat(); Sleep(); Code(); Repeat();<h1>
  
- <h3 align="center"> 
-As an avid participant in the tech community, I am proud to be a part of Google DSC and Google Developer Groups. With an entrepreneurial spirit, I founded Paysense, a fintech startup that simplifies everyday transactions for individuals. My passion for technology extends beyond entrepreneurship, as I have extensive knowledge in front-end development and an eye for designing intuitive and engaging user interfaces.
-</h3>
+<p align="center">
+As an avid participant in the tech community, I am proud to be a part of Google DSC and Google Developer Groups. With an entrepreneurial spirit, I founded Paysense, a fintech startup that simplifies everyday transactions for individuals. My passion for technology extends beyond entrepreneurship, as I have extensive knowledge in front-end development and an eye for designing intuitive and engaging user interfaces. 
+</p>
 
  
 # 🤝🏻 Let's Connect
