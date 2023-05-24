@@ -87,5 +87,5 @@ As an avid participant in the tech community, I am proud to be a part of Google 
 [![GitHub Streak](https://streak-stats.demolab.com?user=MuhammadShakir-dev&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
 # GitHub Graph
-
-[![MuhammadShakir-dev github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=MuhammadShakir-dev&theme=react-dark)](https://github.com//github-readme-activity-graph)
+[![MuhammadShakir-dev github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=MuhammadShakir-dev&theme=github-compact	)](https://github.com/MuhammadShakir-dev/github-readme-activity-graph)
+ 
