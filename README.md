@@ -83,9 +83,11 @@ As an avid participant in the tech community, I am proud to be a part of Google 
 <p><a href="https://ko-fi.com/ko-fi.com/muhammadshakir40183"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="ko-fi.com/muhammadshakir40183" /></a></p><br><br>
 <br/>  
  
-# Quine Stats
- 
+# GitHub over time
 [![MuhammadShakir-dev's GitHub | Stats](https://stats.quine.sh/MuhammadShakir-dev/github?theme=dark)](https://quine.sh)
+ 
+# Languages over time
+[![MuhammadShakir-dev's GitHub | Languages Over Time](https://stats.quine.sh/MuhammadShakir-dev/languages-over-time?theme=dark)](https://quine.sh)
 
 # GitHub Streak
 [![GitHub Streak](https://streak-stats.demolab.com?user=MuhammadShakir-dev&theme=dark&hide_border=true)](https://git.io/streak-stats)
