@@ -2,9 +2,9 @@
 
 <h1 align="center">Eat(); Sleep(); Code(); Repeat();<h1>
  
-<h3 align="center">
+<h4 align="center">
 With a passion for creating intuitive and impactful digital experiences, I am a seasoned Front-End Developer, an active Open Source Contributor, and a dedicated Community Builder. As the Founder of Pay Sense, I've leveraged my technical expertise and leadership skills to build a platform that revolutionizes the way we approach financial transactions. My journey in the tech industry has been driven by a relentless pursuit of innovation, a deep understanding of user-centric design, and a commitment to fostering collaborative environments. Whether I'm refining the user interface for a web application or spearheading a new open-source project, my goal remains the same: to push the boundaries of what's possible in technology and create solutions that make a tangible difference in people's lives.
-</h3>
+</h4>
 
  
 # 🤝🏻 Let's Connect
