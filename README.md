@@ -1,10 +1,7 @@
-![Github-cover](https://github.com/MuhammadShakir-dev/MuhammadShakir-dev/assets/84896803/d0ccf13e-f9b1-4ee9-bfd4-a664c980a4ba)
+![GitHub-bg](https://github.com/MuhammadShakir-dev/MuhammadShakir-dev/assets/84896803/2cc87e8e-16dc-4c9a-95b0-9d68448e0fa2)
 
-<h1 align="center">Eat(); Sleep(); Code(); Repeat();<h1>
- 
-<h4 align="center">
-With a passion for creating intuitive and impactful digital experiences, I am a seasoned Front-End Developer, an active Open Source Contributor, and a dedicated Community Builder. As the Founder of Pay Sense, I've leveraged my technical expertise and leadership skills to build a platform that revolutionizes the way we approach financial transactions. My journey in the tech industry has been driven by a relentless pursuit of innovation, a deep understanding of user-centric design, and a commitment to fostering collaborative environments. Whether I'm refining the user interface for a web application or spearheading a new open-source project, my goal remains the same: to push the boundaries of what's possible in technology and create solutions that make a tangible difference in people's lives.
-</h4>
+<h1 align="center">Hi, I'm Muhammad Shakir 👋<h1>
+<h4 align="center">As a passionate and experienced Front-End Developer and Founder of Pay Sense, I am dedicated to creating intuitive digital experiences and revolutionizing financial transactions. With a focus on innovation and user-centric design, I strive to push the boundaries of technology and make a meaningful impact in people's lives.</h4>
 
  
 # 🤝🏻 Let's Connect
