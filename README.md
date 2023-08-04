@@ -1,6 +1,5 @@
 ![GitHub-bg](https://github.com/MuhammadShakir-dev/MuhammadShakir-dev/assets/84896803/2cc87e8e-16dc-4c9a-95b0-9d68448e0fa2)
 
-<h1 align="center">Hello World 👋<h1>
 <h4>
   
 - Hello 👋, My self Muhammad Shakir. I’m a Front-end Developer 💻  based in Pakistan. And currently doing my BS in Software Engineering from SMI University Karachi.
@@ -13,7 +12,7 @@
 
 </h4> 
 
-# 🤝🏻 Let's Connect
+## 🤝🏻 Let's Connect
 <div align="left">
 <a href="https://github.com/https://github.com/MuhammadShakir-dev?tab=overview&from=2022-07-01&to=2022-07-24" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px; margin-right: 50px;" />
@@ -36,7 +35,7 @@
 </div>  
 
 
-# ✍🏻 Publications
+## ✍🏻 Publications
 <a href="https://muhammadshakir.hashnode.dev/" target="_blank">
 <img  src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" />
 </a>
@@ -45,25 +44,25 @@
 <img  src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
 </a>
 
-# 💻 Tech Stack.
+## 💻 Tech Stack.
 [![My Skills](https://skillicons.dev/icons?i=html,css,sass,bootstrap,tailwind,js)](https://skillicons.dev) [![My Skills](https://skillicons.dev/icons?i=git,github)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=figma)](https://skillicons.dev) 
 [![My Skills](https://skillicons.dev/icons?i=atom,vscode)](https://skillicons.dev) [![My Skills](https://skillicons.dev/icons?i=linux)](https://skillicons.dev)
  
 
-# Support.
+## Support.
 <p><a href="https://ko-fi.com/ko-fi.com/muhammadshakir40183"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="ko-fi.com/muhammadshakir40183" /></a></p><br><br>
 <br/>  
  
-# GitHub over time
+## GitHub over time
 [![MuhammadShakir-dev's GitHub | Stats](https://stats.quine.sh/MuhammadShakir-dev/github?theme=dark)](https://quine.sh)
  
-# Languages over time
+## Languages over time
 [![MuhammadShakir-dev's GitHub | Languages Over Time](https://stats.quine.sh/MuhammadShakir-dev/languages-over-time?theme=dark)](https://quine.sh)
 
-# GitHub Streak
+## GitHub Streak
 [![GitHub Streak](https://streak-stats.demolab.com?user=MuhammadShakir-dev&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
-# GitHub Graph
+## GitHub Graph
 [![MuhammadShakir-dev github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=MuhammadShakir-dev&theme=github-compact	)](https://github.com/MuhammadShakir-dev/github-readme-activity-graph)
  
