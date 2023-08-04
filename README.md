@@ -36,23 +36,10 @@
 <img  src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
 </a>
 
-
-# 🛠️ Skills.
-
-## 💻 Front-end.
-[![My Skills](https://skillicons.dev/icons?i=html,css,sass,bootstrap,tailwind,js)](https://skillicons.dev)
-
-## 🌐 Hosting and Version Control.
-[![My Skills](https://skillicons.dev/icons?i=git,github)](https://skillicons.dev)
-
-## 🎨 UI Designing.
-[![My Skills](https://skillicons.dev/icons?i=figma)](https://skillicons.dev)
-
-## 🦊 Code Editors.
-[![My Skills](https://skillicons.dev/icons?i=atom,vscode)](https://skillicons.dev)
-
-## 🚀 Operating system.
-[![My Skills](https://skillicons.dev/icons?i=linux)](https://skillicons.dev)
+# 💻 Tech Stack.
+[![My Skills](https://skillicons.dev/icons?i=html,css,sass,bootstrap,tailwind,js)](https://skillicons.dev) [![My Skills](https://skillicons.dev/icons?i=git,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=figma)](https://skillicons.dev) 
+[![My Skills](https://skillicons.dev/icons?i=atom,vscode)](https://skillicons.dev) [![My Skills](https://skillicons.dev/icons?i=linux)](https://skillicons.dev)
  
 
 # Support.
