@@ -4,7 +4,7 @@
   
 - Hello 👋, My self Muhammad Shakir. I’m a Front-end Developer 💻  based in Pakistan. And currently doing my BS in Software Engineering from SMI University Karachi.
  
--  I’m a web and JavaScript enthusiast ⚡. Currently studying React.js **⚛**, Node.js, Express.js and being a successful Modern Web Developer.
+-  I’m a web and JavaScript enthusiast ⚡. Currently learning React.js **⚛**, Node.js, Express.js and being a successful Modern Web Developer.
   
 -  Currently Google Developer Student Club’s - Colead | HackClub - Lead and Google Developer Groups - Community Volunteer.
   
