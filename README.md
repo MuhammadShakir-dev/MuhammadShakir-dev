@@ -1,14 +1,17 @@
 ![GitHub-bg](https://github.com/MuhammadShakir-dev/MuhammadShakir-dev/assets/84896803/2cc87e8e-16dc-4c9a-95b0-9d68448e0fa2)
 
 <h1 align="center">Hello World 👋<h1>
+<h4>
   
-> Hello 👋, My self Muhammad Shakir. I’m a Front-end Developer 💻  based in Pakistan. And currently doing my BS in Software Engineering from SMI University Karachi.
+- Hello 👋, My self Muhammad Shakir. I’m a Front-end Developer 💻  based in Pakistan. And currently doing my BS in Software Engineering from SMI University Karachi.
  
-> I’m a web and JavaScript enthusiast ⚡. Currently studying React.js **⚛**, Node.js, Express.js and being a successful Modern Web Developer.
+-  I’m a web and JavaScript enthusiast ⚡. Currently studying React.js **⚛**, Node.js, Express.js and being a successful Modern Web Developer.
   
-> Currently Google Developer Student Club’s - Colead | HackClub - Lead and Google Developer Groups - Community Volunteer.
+-  Currently Google Developer Student Club’s - Colead | HackClub - Lead and Google Developer Groups - Community Volunteer.
   
-> I love to join different communities and give tech talks. And learning new skills that help me to stand out from other developers 🦊.
+-  I love to join different communities and give tech talks. And learning new skills that help me to stand out from other developers 🦊.
+
+</h4> 
 
 # 🤝🏻 Let's Connect
 <div align="left">
