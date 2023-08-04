@@ -1,9 +1,15 @@
 ![GitHub-bg](https://github.com/MuhammadShakir-dev/MuhammadShakir-dev/assets/84896803/2cc87e8e-16dc-4c9a-95b0-9d68448e0fa2)
 
-<h1 align="center">Hi, I'm Muhammad Shakir 👋<h1>
-<h4 align="center">As a passionate and experienced Front-End Developer and Founder of Pay Sense, I am dedicated to creating intuitive digital experiences and revolutionizing financial transactions. With a focus on innovation and user-centric design, I strive to push the boundaries of technology and make a meaningful impact in people's lives.</h4>
-
+<h1 align="center">Hello World 👋<h1>
+  
+> Hello 👋, My self Muhammad Shakir. I’m a Front-end Developer 💻  based in Pakistan. And currently doing my BS in Software Engineering from SMI University Karachi.
  
+> I’m a web and JavaScript enthusiast ⚡. Currently studying React.js **⚛**, Node.js, Express.js and being a successful Modern Web Developer.
+  
+> Currently Google Developer Student Club’s - Colead | HackClub - Lead and Google Developer Groups - Community Volunteer.
+  
+> I love to join different communities and give tech talks. And learning new skills that help me to stand out from other developers 🦊.
+
 # 🤝🏻 Let's Connect
 <div align="left">
 <a href="https://github.com/https://github.com/MuhammadShakir-dev?tab=overview&from=2022-07-01&to=2022-07-24" target="_blank">
