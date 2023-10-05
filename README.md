@@ -45,7 +45,7 @@
 </a>
 
 ## 💻 Tech Stack.
-[![My Skills](https://skillicons.dev/icons?i=html,css,sass,bootstrap,tailwind,js,vercel,firebase,nodejs)](https://skillicons.dev) [![My Skills](https://skillicons.dev/icons?i=git,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,sass,bootstrap,tailwind,js,vercel,firebase,nodejs,postman)](https://skillicons.dev) [![My Skills](https://skillicons.dev/icons?i=git,github)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=figma)](https://skillicons.dev) 
 [![My Skills](https://skillicons.dev/icons?i=atom,vscode)](https://skillicons.dev) [![My Skills](https://skillicons.dev/icons?i=linux)](https://skillicons.dev)
  
