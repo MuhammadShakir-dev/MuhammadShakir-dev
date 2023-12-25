@@ -1,9 +1,12 @@
 ![GitHub-bg](https://github.com/MuhammadShakir-dev/MuhammadShakir-dev/assets/84896803/2cc87e8e-16dc-4c9a-95b0-9d68448e0fa2)
 
-<h4>
+<h1 align="center">Helllooo!   I'm <a href="https://m-shakir.vercel.app/" target="blank"> Muhammad Shakir</a>  👋</h1> 
+<p align='center'>
 A Software Engineer, specializing in Front-end Development, with over 1.5 years of experience. I'm passionate about technology and its potential to shape the future. I'm excited to use my skills to create innovative solutions and drive sustainable change. Connect with me to discuss how I can help you or your organization!
+</p>
 
-</h4> 
+
+
 
 ## 🤝🏻 Let's Connect
 <div align="left">
