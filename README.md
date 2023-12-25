@@ -1,14 +1,7 @@
 ![GitHub-bg](https://github.com/MuhammadShakir-dev/MuhammadShakir-dev/assets/84896803/2cc87e8e-16dc-4c9a-95b0-9d68448e0fa2)
 
 <h4>
-  
-- Hello 👋, My self Muhammad Shakir. I’m a Front-end Developer 💻  based in Pakistan. And currently doing my BS in Software Engineering from SMI University Karachi.
- 
--  I’m a web and JavaScript enthusiast ⚡. Currently learning React.js **⚛**, Node.js, Express.js and being a successful Modern Web Developer.
-  
--  Currently Google Developer Student Club’s - Colead | HackClub - Lead and Google Developer Groups - Community Volunteer.
-  
--  I love to join different communities and give tech talks. And learning new skills that help me to stand out from other developers 🦊.
+A Software Engineer, specializing in Front-end Development, with over 1.5 years of experience. I'm passionate about technology and its potential to shape the future. I'm excited to use my skills to create innovative solutions and drive sustainable change. Connect with me to discuss how I can help you or your organization!
 
 </h4> 
 
