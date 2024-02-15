@@ -7,7 +7,8 @@ A Software Engineer, specializing in Front-end Development, with over 1 year of 
 </p>
 
 <br>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=MuhammadShakir-dev&label=Profile%20views&color=0e75b6&style=flat" alt="MuhammadShakir-dev" /> </p>
+
+[![committers.top badge](https://user-badge.committers.top/pakistan/MuhammadShakir-dev.svg)](https://user-badge.committers.top/pakistan/MuhammadShakir-dev)
 
 <br>
 
