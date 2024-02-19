@@ -14,7 +14,7 @@ A Software Engineer, specializing in Front-end Development, with over 1 year of 
 
 - 🔭 I’m currently working as a Freelance Front-end Developer. 
 
-- 🌱 I’m currently Working on React.js with Tailwind CSS, SCSS & Material UI.
+- 🌱 I’m currently Working on REACT tools including React.js, Webpack, Enzyme, Redux, and Flux.
   
 - 🌱 I’m currently learning Node.Js, OOP, Front-end Engineering Essentials & Best Coding Practices.
 
