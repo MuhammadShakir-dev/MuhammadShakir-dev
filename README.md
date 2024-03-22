@@ -1,6 +1,6 @@
 ![GitHub-bg](https://github.com/MuhammadShakir-dev/MuhammadShakir-dev/blob/main/new-github.png)
 
-<h1 align="center">Helllooo!   <a href="https://m-shakir.vercel.app/" target="blank"> میں محمد شاکر</a>  👋</h1> 
+<h1 align="center">Helllooo!   <a href="https://m-shakir.vercel.app/" target="blank"> I Muhammad Shakir</a>  👋</h1> 
 
 <p align='center'>
 A Software Engineer, specializing in Front-end Development, with over 1 year of experience. I'm passionate about technology and its potential to shape the future. I'm excited to use my skills to create innovative solutions and drive sustainable change. Connect with me to discuss how I can help you or your organization!
