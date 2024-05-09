@@ -12,7 +12,7 @@ A Software Engineer, specializing in Front-end Development, with over 1 year of 
 
 <br>
 
-- 🔭 I’m currently working as a Freelance Front-end Developer. 
+- 🔭 I’m currently working as a Lead Front-end instructor at @Bytewise Limited. 
 
 - 🌱 I’m currently Working on REACT tools including React.js, Webpack, Enzyme, Redux, and Flux.
   
