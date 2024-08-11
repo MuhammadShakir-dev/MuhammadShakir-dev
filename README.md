@@ -1,4 +1,4 @@
-![GitHub-bg](https://github.com/MuhammadShakir-dev/MuhammadShakir-dev/blob/main/LinkedIn%20cover%20-%201%20(1).png)
+![GitHub-bg](https://github.com/MuhammadShakir-dev/MuhammadShakir-dev/blob/main/LinkedIn%20cover%20-%202.png)
 
 <h1 align="center">Hellloo!   <a href="https://m-shakir.vercel.app/" target="blank"> I Muhammad Shakir</a>  👋</h1> 
 
