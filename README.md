@@ -14,7 +14,7 @@ I'm a solution-oriented Front-end Developer, lifelong learner, and adventurer wi
 
 - 🔭 I’m currently working as a Lead Front-end instructor at @Bytewise Limited. 
 
-- 🌱 I’m currently Working on REACT tools including React.js, Webpack, Enzyme, Redux, and Flux.
+- 🌱 I’m currently Working on React tools including React.js, Webpack, Enzyme, Redux, and Flux.
   
 - 🌱 I’m currently learning Node.Js, OOP, Front-end Engineering Essentials & Best Coding Practices.
 
