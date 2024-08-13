@@ -3,7 +3,7 @@
 <h1 align="center">Hellloo!   <a href="https://m-shakir.vercel.app/" target="blank"> I Muhammad Shakir</a>  👋</h1> 
 
 <p align='center'>
-A Software Engineer, specializing in Front-end Development, with over 1 year of experience. I'm passionate about technology and its potential to shape the future. I'm excited to use my skills to create innovative solutions and drive sustainable change. Connect with me to discuss how I can help you or your organization!
+I'm a solution-oriented Front-end Developer, lifelong learner, and adventurer with a professional background in Software Engineering. I enjoy development because of the satisfaction I get by overcoming changes. I have an Engineer mindset. Frameworks and languages are tools for me. What matters is that the problem is solved more cleanly and conveniently. Connect with me to discuss how I can help you or your organization!
 </p>
 
 <br>
